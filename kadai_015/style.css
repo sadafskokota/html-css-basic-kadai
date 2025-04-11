@@ -14,14 +14,14 @@ body{
 }
 h1{
   .google-fonts{
-    font-family: "Noto Sans JP", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
   }
   letter-spacing: 1.2em;
   border-bottom: solid 3px rgb(115, 115, 114);
-  font-size: 40px;
+  font-size: 2rem;
   text-shadow: 7px 7px 7px gray;
   font-family: sans-serif;
 }
