@@ -2,7 +2,7 @@
   background-color: #dcc9f4;
   text-align: center;
   width: 800px;
-  margin: 20px;
+  margin: 20px auto;
  }
  .top-child{
  background-color: #ffd9df;
@@ -57,14 +57,14 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position: relative;
 left: 200px;
  }
  #bottom-child03{
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position: relative;
   bottom: 0px;
 left: 400px;
  }
