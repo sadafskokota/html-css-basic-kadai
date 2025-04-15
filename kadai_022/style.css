@@ -31,7 +31,7 @@ h2::before{
 }
 p:nth-of-type(2)::first-letter{
     color: rgb(97, 206, 249);
-    font: bold;
+    font-weight: bold;
   }
   img {
     margin: 10px 0px;
